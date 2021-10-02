@@ -1,1 +1,7 @@
-estilo.css
+/* Estrutura */
+
+body {
+	background: #f4f2ec url(../img/fundo.png) repeat-x;
+}
+
+  
